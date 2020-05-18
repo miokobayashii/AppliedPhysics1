@@ -34,3 +34,9 @@
 
 と表示されますが, 資料製作段階で特別な読み取りはしていません。  
 従って 「このまま実行」を押して, 動的なコンテンツを利用してください。
+
+---
+[シラバス 3C](https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=08&department_id=11&subject_id=0049&year=2018&lang=ja)
+
+[シラバス 3B](https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=08&department_id=11&subject_id=0048&year=2018&lang=ja)
+
